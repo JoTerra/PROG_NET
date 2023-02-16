@@ -18,3 +18,10 @@ jmdle85@hotmail.com
 - P07 Operadores
 - P08 Trigonometricas
 - P09 Dividir Cifras
+
+## Actividad 3
+- P10 Trabajando Enteros
+- P11 Trabajando Flotantes
+- P12 Trabajando Constantes
+- P13 Trabajando Caracteres
+- P14 Conversion Tipos
