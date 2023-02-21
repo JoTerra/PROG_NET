@@ -25,3 +25,11 @@ jmdle85@hotmail.com
 - P12 Trabajando Constantes
 - P13 Trabajando Caracteres
 - P14 Conversion Tipos
+
+## Tarea 1
+- P15 Hipotenusa
+- P16 Calcular Angulo
+- P17 Convertir Temperatura
+- P18 Volumen Cilindro
+- P19 Calcular Tiempo
+- P20 Conversor Dolares
