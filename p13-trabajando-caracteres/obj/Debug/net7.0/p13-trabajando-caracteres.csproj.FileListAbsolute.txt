@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\bin\Debug\net7.0\p13-trabajando-caracteres.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\bin\Debug\net7.0\p13-trabajando-caracteres.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\bin\Debug\net7.0\p13-trabajando-caracteres.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\bin\Debug\net7.0\p13-trabajando-caracteres.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\bin\Debug\net7.0\p13-trabajando-caracteres.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\refint\p13-trabajando-caracteres.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\p13-trabajando-caracteres.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p13-trabajando-caracteres\obj\Debug\net7.0\ref\p13-trabajando-caracteres.dll
