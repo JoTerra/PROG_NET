@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\bin\Debug\net7.0\p21-verifica-numero.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\bin\Debug\net7.0\p21-verifica-numero.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\bin\Debug\net7.0\p21-verifica-numero.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\bin\Debug\net7.0\p21-verifica-numero.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\bin\Debug\net7.0\p21-verifica-numero.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\refint\p21-verifica-numero.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\p21-verifica-numero.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p21-verifica-numero\obj\Debug\net7.0\ref\p21-verifica-numero.dll
