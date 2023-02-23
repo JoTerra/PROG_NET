@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\bin\Debug\net7.0\p23-convertir-temp.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\bin\Debug\net7.0\p23-convertir-temp.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\bin\Debug\net7.0\p23-convertir-temp.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\bin\Debug\net7.0\p23-convertir-temp.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\bin\Debug\net7.0\p23-convertir-temp.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\refint\p23-convertir-temp.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\p23-convertir-temp.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p23-convertir-temp\obj\Debug\net7.0\ref\p23-convertir-temp.dll
