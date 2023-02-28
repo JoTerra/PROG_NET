@@ -33,3 +33,21 @@ jmdle85@hotmail.com
 - P18 Volumen Cilindro
 - P19 Calcular Tiempo
 - P20 Conversor Dolares
+
+## Actividad 4
+- P21 Verificar Numero
+- P22 Verificar Suma
+- P23 Convertir Temperatura
+- P24 Paga Extra
+
+## Actividad 5
+- P25 Estaciones Año
+- P26 Tipo Angulo
+- P27 Aceptar Estudiantes
+- P28 Ley de Newton
+
+## Actividad 6
+- P29 Calculadora Basica
+- P30 Dia Semana
+- P31 Numeros Romanos
+- P32 Pago Estacionamiento
