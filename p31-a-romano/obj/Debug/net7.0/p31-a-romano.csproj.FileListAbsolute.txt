@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\bin\Debug\net7.0\p31-a-romano.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\bin\Debug\net7.0\p31-a-romano.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\bin\Debug\net7.0\p31-a-romano.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\bin\Debug\net7.0\p31-a-romano.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\bin\Debug\net7.0\p31-a-romano.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\refint\p31-a-romano.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\p31-a-romano.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p31-a-romano\obj\Debug\net7.0\ref\p31-a-romano.dll
