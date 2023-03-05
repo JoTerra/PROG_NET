@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\bin\Debug\net7.0\p29-calculadora-basica.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\bin\Debug\net7.0\p29-calculadora-basica.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\bin\Debug\net7.0\p29-calculadora-basica.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\bin\Debug\net7.0\p29-calculadora-basica.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\bin\Debug\net7.0\p29-calculadora-basica.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\refint\p29-calculadora-basica.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\p29-calculadora-basica.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p29-calculadora-basica\obj\Debug\net7.0\ref\p29-calculadora-basica.dll
