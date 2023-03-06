@@ -51,3 +51,11 @@ jmdle85@hotmail.com
 - P30 Dia Semana
 - P31 Numeros Romanos
 - P32 Pago Estacionamiento
+
+## Tarea 2
+- P33 Numeros consecutivos
+- P34 Numero Mayor
+- P35 Continentes Mundo
+- P36 Compra Pizza
+- P37 Calculo Notas
+- P38 Aceptar Estudiantes V2
