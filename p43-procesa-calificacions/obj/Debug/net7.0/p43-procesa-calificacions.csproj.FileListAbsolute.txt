@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\bin\Debug\net7.0\p43-procesa-calificacions.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\bin\Debug\net7.0\p43-procesa-calificacions.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\bin\Debug\net7.0\p43-procesa-calificacions.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\bin\Debug\net7.0\p43-procesa-calificacions.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\bin\Debug\net7.0\p43-procesa-calificacions.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\refint\p43-procesa-calificacions.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\p43-procesa-calificacions.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p43-procesa-calificacions\obj\Debug\net7.0\ref\p43-procesa-calificacions.dll
