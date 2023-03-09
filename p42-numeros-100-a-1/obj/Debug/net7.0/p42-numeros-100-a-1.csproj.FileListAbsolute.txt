@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\bin\Debug\net7.0\p42-numeros-100-a-1.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\bin\Debug\net7.0\p42-numeros-100-a-1.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\bin\Debug\net7.0\p42-numeros-100-a-1.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\bin\Debug\net7.0\p42-numeros-100-a-1.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\bin\Debug\net7.0\p42-numeros-100-a-1.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\refint\p42-numeros-100-a-1.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\p42-numeros-100-a-1.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p42-numeros-100-a-1\obj\Debug\net7.0\ref\p42-numeros-100-a-1.dll
