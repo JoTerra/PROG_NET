@@ -59,3 +59,16 @@ jmdle85@hotmail.com
 - P36 Compra Pizza
 - P37 Calculo Notas
 - P38 Aceptar Estudiantes V2
+
+## Actividad 7
+- Repaso R1
+
+## Parcial 1
+- P40 Primer Parcial
+
+## Actividad 9
+- P41 Numeros 1 a 100
+- P42 Numeros 100 a 1
+- P43 Procesa Calificaciones
+- P44 Tabla de Multiplicart
+- P45 Conteo de Numeros
