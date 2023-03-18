@@ -66,9 +66,15 @@ jmdle85@hotmail.com
 ## Parcial 1
 - P40 Primer Parcial
 
-## Actividad 9
+## Actividad 8
 - P41 Numeros 1 a 100
 - P42 Numeros 100 a 1
 - P43 Procesa Calificaciones
 - P44 Tabla de Multiplicart
 - P45 Conteo de Numeros
+
+## Actividad 9
+- P46 Pares Ascendentes
+- P47 Impares Descendentes
+- P48 Tabla de Conversion a Dolares
+- P49 Conjetura de Collatz
