@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\bin\Debug\net7.0\p49-conjetura-collatz.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\bin\Debug\net7.0\p49-conjetura-collatz.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\bin\Debug\net7.0\p49-conjetura-collatz.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\bin\Debug\net7.0\p49-conjetura-collatz.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\bin\Debug\net7.0\p49-conjetura-collatz.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\refint\p49-conjetura-collatz.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\p49-conjetura-collatz.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p49-conjetura-collatz\obj\Debug\net7.0\ref\p49-conjetura-collatz.dll
