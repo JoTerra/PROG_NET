@@ -78,3 +78,16 @@ jmdle85@hotmail.com
 - P47 Impares Descendentes
 - P48 Tabla de Conversion a Dolares
 - P49 Conjetura de Collatz
+
+## Tarea 3
+- P50 Impares Ascendentes
+- P51 Pares Descendentes
+- P52 Tabla de Conversion de Temperatura
+- P53 Serie de Fibonaci
+
+## Actividad 10
+- P54 Numeros 1 - N
+- P55 Numeros N - 1
+- P56 Arriba y Abajo
+- P57 Suma Pares e Impares
+- P58 Suma Promedio
