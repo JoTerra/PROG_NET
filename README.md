@@ -91,3 +91,9 @@ jmdle85@hotmail.com
 - P56 Arriba y Abajo
 - P57 Suma Pares e Impares
 - P58 Suma Promedio
+
+## Actividad 11
+- P59 Tablas de Multiplicar
+- P60 Piramide
+- P61 Factorial de Numeros
+- P62 Suma de Terminos
