@@ -97,3 +97,9 @@ jmdle85@hotmail.com
 - P60 Piramide
 - P61 Factorial de Numeros
 - P62 Suma de Terminos
+
+## Tarea 4
+- P63 Secuencia Numeros 1
+- P64 Secuencia Numeros 2
+- P65 Suma Terminos 1
+- P66 Suma Terminos 2
