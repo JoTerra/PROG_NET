@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\bin\Debug\net7.0\p72-mayor-tres.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\bin\Debug\net7.0\p72-mayor-tres.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\bin\Debug\net7.0\p72-mayor-tres.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\bin\Debug\net7.0\p72-mayor-tres.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\bin\Debug\net7.0\p72-mayor-tres.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\refint\p72-mayor-tres.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\p72-mayor-tres.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\p72-mayor-tres\obj\Debug\net7.0\ref\p72-mayor-tres.dll
