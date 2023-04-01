@@ -5,6 +5,7 @@
 
 José Manuel De Lara Estupiñan
 jmdle85@hotmail.com
+39204348 - Matricula
 
 ## Actividad 1
 - P01 Hola Mundo
@@ -103,3 +104,17 @@ jmdle85@hotmail.com
 - P64 Secuencia Numeros 2
 - P65 Suma Terminos 1
 - P66 Suma Terminos 2
+
+## Actividad 12
+- P67 Promedio Numeros
+- P68 Conversion Temperaturas
+- P69 Suma Rango
+- P70 Tabla Multiplicar
+- P71 Calificacion Letra
+
+## Actividad 13
+- P72 Mayor Tres
+- P73 Suma Digitos
+- P74 Suma Pares e Impares
+- P75 Factorial
+- P76 Cuadro de Caracteres
