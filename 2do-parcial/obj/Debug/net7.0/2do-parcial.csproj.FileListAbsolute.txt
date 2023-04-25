@@ -1,0 +1,15 @@
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.csproj.AssemblyReference.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.AssemblyInfoInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.AssemblyInfo.cs
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.csproj.CoreCompileInputs.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\bin\Debug\net7.0\2do-parcial.exe
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\bin\Debug\net7.0\2do-parcial.deps.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\bin\Debug\net7.0\2do-parcial.runtimeconfig.json
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\bin\Debug\net7.0\2do-parcial.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\bin\Debug\net7.0\2do-parcial.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\refint\2do-parcial.dll
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.pdb
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\2do-parcial.genruntimeconfig.cache
+C:\Users\jmdle\Documents\8-A [UAZ]\CNET\2do-parcial\obj\Debug\net7.0\ref\2do-parcial.dll

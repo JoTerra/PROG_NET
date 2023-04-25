@@ -121,3 +121,6 @@ jmdle85@hotmail.com
 
 ## Tarea 14
 - P82 Repaso Segundo Parcial
+
+## Segundo Examen Parcial
+- 2DO Parcial
