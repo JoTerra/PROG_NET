@@ -118,3 +118,6 @@ jmdle85@hotmail.com
 - P74 Suma Pares e Impares
 - P75 Factorial
 - P76 Cuadro de Caracteres
+
+## Tarea 14
+- P82 Repaso Segundo Parcial
