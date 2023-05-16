@@ -124,3 +124,16 @@ jmdle85@hotmail.com
 
 ## Segundo Examen Parcial
 - 2DO Parcial
+
+## Actividad 14
+- P84 Empleado
+- P85 Cuenta Bancaria V1
+
+## Actividad 15
+- P86 Cuenta Bancaria V2
+
+## Actividad 16
+- P87 Control Escolar
+
+## Actividad 17
+- P88 Control Escolar v2
