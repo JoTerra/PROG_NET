@@ -140,3 +140,6 @@ jmdle85@hotmail.com
 
 ## Actividad 18
 - P89 Control Escolar V3
+
+## Tercer Parcial
+- P90 Tercer Parcial
